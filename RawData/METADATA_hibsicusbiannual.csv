@@ -1,0 +1,16 @@
+﻿Column  Name,Data Type,Description
+plantID,Numeric,Unique identification number for a given plant
+level,Character,"Site level (North=N, Central=C, South=S)"
+block,Character,"Block within a level and herbivore exclusion treatment where data was collected. Blocks are numbered 1-3 for each of N, C, or S within an herbivore exclusion treatment. Some sites include pseudocontrols, which are indicated with a ""p"" after the block name (i.e., ""N1p""); however, pseudocontrols are excluded from this analysis."
+trmtUHURU,Character,"Herbivore exclusion treatment, which includes CONT (control, where no herbivores are excluded), MEGA (which excludes megaherbivores), MESO (which excludes mega and mesoherbivores) and LMH (which excludes all large mammalian herbivores, including mega, meso and smaller LMH)"
+year,Character,"Biannual timepoint at which data was collected. The number (11-15) indicates year, and letter (w or s) indicates the season in which the data was collected (where w=winter and s=summer). "
+BA,Numeric,Basal area of a given plant (mm)
+height,Numeric,Height of a given plant (cm)
+woodystems,Numeric,Number of woody stems counted for a given plant at a time point
+fruits,Numeric,Number of fruits counted for a given plant at a time point
+binfruits,Numeric (binary),Binary indicator of whether a given plant was fruiting at a time point
+fruitsnext6mo,Numeric,Number of fruits a given plant would produce  in the next time point
+binfruitsnext6mo,Numeric (binary),Binary indicator of whether a given plant would fruit in the next time point
+binsurnext6mo,Numeric (binary),Binary indicator of whether a given plant would survive to the next time point
+BM,Numeric,Biomass measurement for a given plant at a given timepoint (g)
+BMnext6mo,Numeric,Biomass measurement for a given plant at the next timepoint (g)
