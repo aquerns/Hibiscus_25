@@ -23,7 +23,10 @@ SOFTWARE.
 
 Notice:
 The code in this repository is licensed under the MIT License. 
-However, **the data files (found in the /RawData and /Data directory) are not covered by this license and may not be used,
-reproduced, or distributed without explicit permission from the authors.
+The datasets included in this repository are provided for informational and educational purposes only.
+They may not be used in published work, including but not limited to journal articles,
+reports, or presentations, without prior written permission from the authors.
+Proper attribution must be given in any derivative works or materials that use the data.
+
 Please contact akquerns@ksu.edu for inquiries about data usage.
 
