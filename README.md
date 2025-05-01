@@ -1,5 +1,5 @@
 
-[![DOI](https://zenodo.org/badge/DOI/10.xxxx/zenodo.xxxxxxx.svg)](https://doi.org/10.xxxx/zenodo.xxxxxxx)
+[![DOI](https://zenodo.org/badge/976192063.svg)](https://doi.org/10.5281/zenodo.15319613)
 
 This project describes a test for demographic compensation using demographic data from Hisbiscus meyeri. The manuscript associated with this test is currently in review.
 
